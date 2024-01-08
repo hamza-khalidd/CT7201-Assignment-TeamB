@@ -9,10 +9,10 @@
 |  Sandeep Kumar |  S4313281   
 
 ### 2. Members Contribution
-  -  Hamza Khalid:
-  -  Milind Dev Janghu:
-  -  Hajra Batool:
-  -  Sandeep Kumar: 
+  -  Hamza Khalid: Worked on exploratory data analysis, the check trends on available dates, Correlations, geographical heatmaps, trends analysis (i.e. forecasting for the year 2015) and eda reporting using SweetViz in Python.
+  -  Milind Dev Janghu: Worked on finding relationships in the data and comparitive analysis.
+  -  Hajra Batool: Worked on basic data cleaning and checks and some visualizations also.
+  -  Sandeep Kumar: Worked on data cleaning and categorical data insights.
 
 ### 2. Modules/Libraries Used
 The following libraries are used for this project:
@@ -26,7 +26,7 @@ The following libraries are used for this project:
 
 ### 3. Dataset Details
 - Dataset: 1.6 million UK traffic accidents (accidents_2012_to_2014.csv)
-- The dataset used for the project was obtained from; 
+- The dataset used for the project was obtained from Kaggle.
 - URL: [https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales?select=accidents_2012_to_2014.csv]
 
 ### 5. GitHub Details
