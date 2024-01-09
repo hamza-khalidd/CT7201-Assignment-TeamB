@@ -9,7 +9,7 @@
 |  Sandeep Kumar |  S4313281   
 
 ### 2. Members Contribution
-  -  Hamza Khalid: Worked on exploratory data analysis, the check trends on available dates, Correlations, geographical heatmaps, trends analysis (i.e. forecasting for the year 2015) and eda reporting using SweetViz in Python.
+  -  Hamza Khalid: Worked on exploratory data analysis, the check trends on available dates, Correlations, geographical heatmaps, trends analysis (i.e. forecasting for the year 2015) using Prophet in Python.
   -  Milind Dev Janghu: Worked on finding relationships in the data and comparitive analysis.
   -  Hajra Batool: Worked on basic data cleaning and checks and some visualizations also.
   -  Sandeep Kumar: Worked on data cleaning and categorical data insights.
