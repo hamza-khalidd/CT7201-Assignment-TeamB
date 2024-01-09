@@ -28,6 +28,3 @@ The following libraries are used for this project:
 - Dataset: 1.6 million UK traffic accidents (accidents_2012_to_2014.csv)
 - The dataset used for the project was obtained from Kaggle.
 - URL: [https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales?select=accidents_2012_to_2014.csv]
-
-### 5. GitHub Details
-- GitHub Repository Link: [https://github.com/hamza-khalidd/CT7201-Assignment-TeamB/]
